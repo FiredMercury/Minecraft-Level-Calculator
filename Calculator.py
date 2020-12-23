@@ -1,3 +1,5 @@
+# for vanilla Minecraft.
+
 def findexp(var):
     if var < 32:
         expval = 2.5 * var ** 2 - 40.5 * var + 360
